@@ -26,5 +26,5 @@ Soy **Ingeniero de Sistemas** especializado en la gestión de información, arqu
 ---
 
 ### 📬 ¿Cómo contactarme?
-* **LinkedIn:** [www.linkedin.com/sebdeetz](#)
+* **LinkedIn:** [www.linkedin.com/in/sebdeetz](#)
 * **Correo:** Sebdeetz@gmail.com
