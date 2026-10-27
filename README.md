@@ -13,13 +13,13 @@ Soy **Ingeniero de Sistemas** especializado en la gestión de información, arqu
 
 ### 🚀 Proyectos Destacados
 
-* **[Nombre de tu proyecto 1]:** 
-  * Breve descripción de lo que hace (ej. Aplicación web integrada con algoritmos de machine learning para análisis de datos).
+* **[]:** 
+  * Aplicación web integrada con algoritmos de machine learning para análisis de datos.
   * *Tecnologías:* Python, Flask, MariaDB, Chart.js.
   * [Ver repositorio](#) | [Ver demo](#)
 
-* **[Nombre de tu proyecto 2]:**
-  * Breve descripción de otro proyecto relevante de tu autoría.
+* **[]:**
+  * Bases de datos relacionales y consultas.
   * *Tecnologías:* SQL Server, PostgreSQL, Optimización de consultas.
   * [Ver repositorio](#)
 
